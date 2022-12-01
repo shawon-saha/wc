@@ -1,0 +1,78 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 140p Quality
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_180.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 244p Quality 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 360p Quality 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 480p Quality 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 720p 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 140p
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_180.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 244p 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 360p 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_640.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 480p 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 720p 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_1000.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 140p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 244p 
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 360p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 480p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 720p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 140p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_180.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 244p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 360p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_640.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 480p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 720p
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKEXo.png" group-title="Paid-Old", 360p 
+https://premiumnetworktv.tk/640p/FIFA-World-Cup.m3u8
+#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKEXo.png" group-title="Paid-Old", 480p 
+https://premiumnetworktv.tk/850p/FIFA-World-Cup.m3u8
+#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKEXo.png" group-title="Paid-Old", 720p 
+https://premiumnetworktv.tk/1000p/FIFA-World-Cup.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS18 1 HD✴(ENG)" tvg-logo="https://www.fifplay.com/img/public/2022-fifa-world-cup-logo.png" group-title="FIFA WORLD CUP 2022",SPORTS18 1 HD✴(ENG)
+http://tv.univisionlive.net:8880/live/asif684/84163684/4722.m3u8
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV INDIA HD✴(HINDI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",MTV INDIA HD✴(HINDI)
+http://tv.univisionlive.net:8880/live/asif684/84163684/4850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)-1
+http://tv.univisionlive.net:8880/live/asif684/84163684/4848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)- 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)- 2
+http://tv.univisionlive.net:8880/live/asif684/84163684/4846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)- 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)- 3
+http://tv.univisionlive.net:8880/live/asif684/84163684/4847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)- 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)- 4
+http://tv.univisionlive.net:8880/live/asif684/84163684/4851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)- 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)- 5
+http://tv.univisionlive.net:8880/live/asif684/84163684/4852.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", TYC Sports 
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", 9goal (goforfreedomwme)
+https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", 9goal (turnthe.gameon)
+https://turnthe.gameon.tel/live/itvuk_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", 9goal (whydontyoustreamwme)
+https://playing.whydontyoustreamwme.com/live/itvuk/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKb6H.jpg" group-title="Contact", Join Now
+https://t.me/abig0
