@@ -83,15 +83,15 @@ http://103.127.93.82:8234/g_tv/tracks-v1a1/mono.m3u8?token=TheftTheftTheftTheftT
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 tvg-name="TSPORTS (BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",TSPORTS (BDIX)
 http://103.143.235.50:8080/102/102.m3u8
-#EXTINF:-1 tvg-name="(FHD) whydontyoustreamwme" tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", (FHD) whydontyoustreamwme
+#EXTINF:-1 tvg-name="(FHD) whydontyoustreamwme" tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="Premium Network TV", (FHD) whydontyoustreamwme
 https://playing.whydontyoustreamwme.com/live/fs1us/index.m3u8
 #EXTINF:-1 tvg-name="(FHD) smoothlikebutterstream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",(FHD) smoothlikebutterstream
 https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
-#EXTINF:-1 tvg-name="(FHD) goforfreedomwme" tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", (FHD) goforfreedomwme
+#EXTINF:-1 tvg-name="(FHD) goforfreedomwme" tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="Premium Network TV", (FHD) goforfreedomwme
 https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
-#EXTINF:-1 tvg-name="(FHD Arabic) goforfreedomwme" tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", (FHD Arabic) goforfreedomwme
+#EXTINF:-1 tvg-name="(FHD Arabic) goforfreedomwme" tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="Premium Network TV", (FHD Arabic) goforfreedomwme
 https://playing.goforfreedomwme.net/live/beinsportsmax1ar/index.m3u8
-#EXTINF:-1 tvg-name="(FHD Arabic) turnthe.gameon" tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", (FHD Arabic) turnthe.gameon
+#EXTINF:-1 tvg-name="(FHD Arabic) turnthe.gameon" tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="Premium Network TV", (FHD Arabic) turnthe.gameon
 https://turnthe.gameon.tel/live/beinsportsmax2ar/index.m3u8
 #EXTINF:-1 tvg-name="(HD Arabic) smoothlikebutterstream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",(HD Arabic) smoothlikebutterstream
 https://playing.smoothlikebutterstream.com/live/beinsportsmax1ar_720p/index.m3u8
