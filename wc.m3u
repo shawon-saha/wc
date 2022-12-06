@@ -59,16 +59,14 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=10491
 http://175.107.244.52:4457/play/a06z/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5 (Chinese) (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",CCTV5 (Chinese) (Unstable)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-name="Alkass One HD (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Alkass One HD (Unstable)
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
-#EXTINF:-1 tvg-name="TRTSPOR (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",TRTSPOR (Unstable)
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
 
 #EXTINF:-1 tvg-name="Fan Zone (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Fan Zone (Unstable)
 http://satline.xyz:8080/live/5641662923740580/8591662923740580/6712.ts
-#EXTINF:-1 tvg-name="One HD (Outdoor) (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",One HD (Outdoor) (Unstable)
+#EXTINF:-1 tvg-name="Alkass One HD (Outdoor) (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Alkass One HD (Outdoor) (Unstable)
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
+#EXTINF:-1 tvg-name="Alkass One HD (Outdoor) (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Alkass One HD (Outdoor) (Unstable)
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1053342&extension=ts&play_token=MMcesPas9I
-#EXTINF:-1 tvg-name="One HD 2 (Outdoor) (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",One HD 2 (Outdoor) (Unstable)
+#EXTINF:-1 tvg-name="Alkass One HD 2 (Outdoor) (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Alkass One HD 2 (Outdoor) (Unstable)
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1053340&extension=ts&play_token=hBG9GR2NsT
 #EXTINF:-1 tvg-name="Bein Sports 4 (Multicam) (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 4 (Multicam) (Unstable)
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049161&extension=ts&play_token=KfpdCkmmYu
