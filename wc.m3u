@@ -22,35 +22,31 @@ https://playing.whydontyoustreamwme.com/live/fs1us/index.m3u8
 #EXTINF:-1 tvg-name="(FHD Arabic)-9GOAL turnthe.gameon" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22", (FHD Arabic)-9GOAL turnthe.gameon
 https://turnthe.gameon.tel/live/beinsportsmax2ar/index.m3u8
 
-#EXTINF:-1 tvg-name="itv1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",itv1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
-#EXTINF:-1 tvg-name="CCTV16 (Chinese)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",CCTV16 (Chinese)
-http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 #EXTINF:-1 tvg-name="RPC" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",RPC
 http://23.237.10.66:16082/
+#EXTINF:-1 tvg-name="Ary Sports (Buffer)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Ary Sports (Buffer)
+http://115.186.148.250:8000/play/a00s
+#EXTINF:-1 tvg-name="CCTV16 (Chinese) (Buffer)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",CCTV16 (Chinese) (Buffer)
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 
-
-#EXTINF:-1 tvg-name="M4 Sports" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",M4 Sports
+#EXTINF:-1 tvg-name="itv1 (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",itv1 (Unstable)
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
+#EXTINF:-1 tvg-name="M4 Sports (Unstable)"  tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",M4 Sports (Unstable)
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1051534&extension=ts&play_token=WWE0GvaFk3
-
-#EXTINF:-1 tvg-name="Bein Sports 5 (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 5 (Unstable)
-http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1050774&extension=ts&play_token=ZrLvXgudgh
 #EXTINF:-1 tvg-name="Bein Sports 1 (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1 (Unstable)
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049176&extension=ts&play_token=PQp9qzqQB3
+#EXTINF:-1 tvg-name="Bein Sports 5 (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 5 (Unstable)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1050774&extension=ts&play_token=ZrLvXgudgh
 #EXTINF:-1 tvg-name="ANT (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",ANT (Unstable)
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1055465&extension=ts&play_token=6b9t2bQRT1
-#EXTINF:-1 tvg-name="Sports 18 1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Sports 18 1
+#EXTINF:-1 tvg-name="Sports 18 (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Sports 18 (Unstable)
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
-#EXTINF:-1 tvg-name="SportV" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",SportV
+#EXTINF:-1 tvg-name="SportV (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",SportV (Unstable)
 http://ssvrv.xyz:80/live/96790pedr0090/0090pedr96790/179682.ts
-#EXTINF:-1 tvg-name="Grandstand" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Grandstand
+#EXTINF:-1 tvg-name="Grandstand (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Grandstand (Unstable)
 http://satline.xyz:8080/live/5641662923740580/8591662923740580/6714.ts
-#EXTINF:-1 tvg-name="World Cup Select 1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",World Cup Select 1 
+#EXTINF:-1 tvg-name="World Cup Select 1 (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",World Cup Select 1 (Unstable)
 http://satline.xyz:8080/live/5641662923740580/8591662923740580/6715.ts
-
-#EXTINF:-1 tvg-name="Ary Sports (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Ary Sports (Unstable)
-http://115.186.148.250:8000/play/a00s
-
 #EXTINF:-1 tvg-name="Bein Sports 1 (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1 (Unstable)
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/3682
 #EXTINF:-1 tvg-name="Bein Sports 1 (Unstable)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1 (Unstable)
