@@ -1,100 +1,127 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 140p Quality
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_180.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 244p Quality 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 360p Quality 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 480p Quality 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", 720p 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 140p
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_180.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 244p 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 360p 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_640.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 480p 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13191/logo/240x240/mobile_logo_070774001669671341.png" group-title="Free-2", 720p 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_1000.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 140p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 244p 
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 360p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 480p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_343239001669671248.png" group-title="Paid-1", 720p
+#EXTINF:-1 tvg-name="Toffee Paid" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Toffee Paid
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 140p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_180.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 244p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 360p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_640.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 480p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", 720p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKEXo.png" group-title="FIFA WORLD CUP 2022", Toffee - 360p 
-https://premiumnetworktv.tk/640p/FIFA-World-Cup.m3u8
-#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKEXo.png" group-title="FIFA WORLD CUP 2022", Toffee - 480p
-https://premiumnetworktv.tk/850p/FIFA-World-Cup.m3u8
-#EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKEXo.png" group-title="FIFA WORLD CUP 2022", Toffee 720p 
-https://premiumnetworktv.tk/1000p/FIFA-World-Cup.m3u8
-
-#EXTINF:-1 tvg-name="SPORTS18 1 HD✴(ENG)" tvg-logo="https://www.fifplay.com/img/public/2022-fifa-world-cup-logo.png" group-title="FIFA WORLD CUP 2022",SPORTS18 1 HD✴(ENG)
-http://tv.univisionlive.net:8880/live/asif684/84163684/4722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)-1
-http://tv.univisionlive.net:8880/live/asif684/84163684/4848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)- 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)- 2
-http://tv.univisionlive.net:8880/live/asif684/84163684/4846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)- 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)- 3
-http://tv.univisionlive.net:8880/live/asif684/84163684/4847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)- 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)- 4
-http://tv.univisionlive.net:8880/live/asif684/84163684/4851.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="▶️ WORLD CUP (VIP)- 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",▶️ WORLD CUP (VIP)- 5
-http://tv.univisionlive.net:8880/live/asif684/84163684/4852.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", TYC Sports 
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", 9goal (goforfreedomwme)
-https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", 9goal (turnthe.gameon)
-https://turnthe.gameon.tel/live/itvuk_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/fifa-world-cup-qatar-2022-logo-stylized-vector-isolated-illustration-with-football_633888-126.jpg?w=90" group-title="FIFA WORLD CUP 2022", 9goal (whydontyoustreamwme)
-https://playing.whydontyoustreamwme.com/live/itvuk/index.m3u8
-#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV INDIA HD✴(HINDI)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022",MTV INDIA HD✴(HINDI)
-http://tv.univisionlive.net:8880/live/asif684/84163684/4850.m3u8
-
-#EXTINF:-1 tvg-name="Toffee Paid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",Toffee Paid
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-name="Gazi TV (BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",Gazi TV (BDIX)
-http://103.143.235.50:8080/101/101.m3u8
-#EXTINF:-1 tvg-name="Gazi TV 2 (BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",Gazi TV 2 (BDIX)
+#EXTINF:-1 tvg-name="Gazi TV 1 (BDIX)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Gazi TV 1 (BDIX)
 http://103.127.93.82:8234/g_tv/tracks-v1a1/mono.m3u8?token=TheftTheftTheftTheftTheftTheftTheftTheft
-#EXTINF:-1 tvg-name="Gazi TV 3 (BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",Gazi TV 3 (BDIX)
+#EXTINF:-1 tvg-name="Gazi TV 2 (BDIX)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Gazi TV 2 (BDIX)
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
-#EXTINF:-1 tvg-name="TSPORTS (BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",TSPORTS (BDIX)
+#EXTINF:-1 tvg-name="Gazi TV 3 (BDIX)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Gazi TV 3 (BDIX)
+http://103.143.235.50:8080/101/101.m3u8
+#EXTINF:-1 tvg-name="TSPORTS (BDIX)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",TSPORTS (BDIX)
 http://103.143.235.50:8080/102/102.m3u8
-#EXTINF:-1 tvg-name="(FHD) whydontyoustreamwme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV", (FHD) whydontyoustreamwme
+#EXTINF:-1 tvg-name="(FHD)-9GOAL whydontyoustreamwme" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22", (FHD)-9GOAL whydontyoustreamwme
 https://playing.whydontyoustreamwme.com/live/fs1us/index.m3u8
-#EXTINF:-1 tvg-name="(FHD) smoothlikebutterstream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",(FHD) smoothlikebutterstream
+#EXTINF:-1 tvg-name="(FHD)-9GOAL smoothlikebutterstream" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",(FHD)-9GOAL smoothlikebutterstream
 https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
-#EXTINF:-1 tvg-name="(FHD) goforfreedomwme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV", (FHD) goforfreedomwme
+#EXTINF:-1 tvg-name="(FHD)-9GOAL goforfreedomwme" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22", (FHD)-9GOAL goforfreedomwme
 https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
-#EXTINF:-1 tvg-name="(FHD Arabic) goforfreedomwme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV", (FHD Arabic) goforfreedomwme
+#EXTINF:-1 tvg-name="(FHD Arabic)-9GOAL goforfreedomwme" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22", (FHD Arabic)-9GOAL goforfreedomwme
 https://playing.goforfreedomwme.net/live/beinsportsmax1ar/index.m3u8
-#EXTINF:-1 tvg-name="(FHD Arabic) turnthe.gameon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV", (FHD Arabic) turnthe.gameon
+#EXTINF:-1 tvg-name="(FHD Arabic)-9GOAL turnthe.gameon" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22", (FHD Arabic)-9GOAL turnthe.gameon
 https://turnthe.gameon.tel/live/beinsportsmax2ar/index.m3u8
-#EXTINF:-1 tvg-name="(HD Arabic) smoothlikebutterstream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Premium Network TV",(HD Arabic) smoothlikebutterstream
+#EXTINF:-1 tvg-name="(HD Arabic)-9GOAL smoothlikebutterstream" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",(HD Arabic)-9GOAL smoothlikebutterstream
 https://playing.smoothlikebutterstream.com/live/beinsportsmax1ar_720p/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Soccer Plus" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Fox Soccer Plus
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/50068
+
+#EXTINF:-1 tvg-name="Bein Sports 1 (Eng)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1 (Eng)
+http://185.71.66.45:88/220263509778434/220263509778434/82
+#EXTINF:-1 tvg-name="Bein Sports 1 (Eng-2)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1 (Eng-2)
+http://185.71.66.45:88/220263509778434/220263509778434/83
+
+#EXTINF:-1 tvg-name="Bein Sports 1 (Arabic)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1 (Arabic)
+http://185.71.66.45:88/220263509778434/220263509778434/1602
+#EXTINF:-1 tvg-name="Bein Sports 2 (Non English)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 2 (Non English)
+http://185.71.66.45:88/220263509778434/220263509778434/1603
+#EXTINF:-1 tvg-name="Bein Sports 3 (Arabic)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 3 (Arabic)
+http://185.71.66.45:88/220263509778434/220263509778434/1604
+#EXTINF:-1 tvg-name="Bein Sports 4 (Non English)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 4 (Non English)
+http://185.71.66.45:88/220263509778434/220263509778434/1605
+#EXTINF:-1 tvg-name="Bein Sports 5 (Arabic)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 5 (Arabic)
+http://185.71.66.45:88/220263509778434/220263509778434/79
+#EXTINF:-1 tvg-name="Bein Sports 6 (Non English)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 6 (Non English)
+http://185.71.66.45:88/220263509778434/220263509778434/80
+#EXTINF:-1 tvg-name="Bein Sports 7 (Non English)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 7 (Non English)
+http://185.71.66.45:88/220263509778434/220263509778434/81
+#EXTINF:-1 tvg-name="Bein Sports XTRA" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports XTRA
+http://185.71.66.45:88/220263509778434/220263509778434/21275
+#EXTINF:-1 tvg-name="Bein Sports XTRA-2" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports XTRA-2
+http://185.71.66.45:88/220263509778434/220263509778434/21276
+
+#EXTINF:-1 tvg-name="Ary Sports" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Ary Sports
+http://115.186.148.250:8000/play/a00s
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/3682
+#EXTINF:-1 tvg-name="itv1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",itv1
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
+#EXTINF:-1 tvg-name="Unknown" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Unknown
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/260
+
+#EXTINF:-1 tvg-name="RPC" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",RPC
+http://23.237.10.66:16082/
+
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/73
+#EXTINF:-1 tvg-name="CBS NFL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",CBS NFL
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
+
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 3
+http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:-1 tvg-name="Sport1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Sport1
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1053335&extension=ts&play_token=yd2Cv841n2
+#EXTINF:-1 tvg-name="M4 Sports" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",M4 Sports
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1051534&extension=ts&play_token=WWE0GvaFk3
+#EXTINF:-1 tvg-name="One HD" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",One HD
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1053342&extension=ts&play_token=MMcesPas9I
+#EXTINF:-1 tvg-name="One HD 2" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",One HD 2
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1053340&extension=ts&play_token=hBG9GR2NsT
+#EXTINF:-1 tvg-name="Bein Sports 4" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 4
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049161&extension=ts&play_token=KfpdCkmmYu
+#EXTINF:-1 tvg-name="Bein Sports 5" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 5
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1050774&extension=ts&play_token=ZrLvXgudgh
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049176&extension=ts&play_token=PQp9qzqQB3
+#EXTINF:-1 tvg-name="ANT News" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",ANT News
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1055465&extension=ts&play_token=6b9t2bQRT1
+#EXTINF:-1 tvg-name="Sports 18 (India)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Sports 18 (India)
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
+#EXTINF:-1 tvg-name="SportV" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",SportV
+http://ssvrv.xyz:80/live/96790pedr0090/0090pedr96790/179682.ts
+#EXTINF:-1 tvg-name="Fan Zone" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Fan Zone
+http://satline.xyz:8080/live/5641662923740580/8591662923740580/6712.ts
+#EXTINF:-1 tvg-name="tvO" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",tvO
+http://satline.xyz:8080/live/5641662923740580/8591662923740580/6714.ts
+#EXTINF:-1 tvg-name="Fan Zone" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Fan Zone
+http://satline.xyz:8080/live/5641662923740580/8591662923740580/6715.ts
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 1
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049174&extension=ts&play_token=5MVNb8mEjl
+#EXTINF:-1 tvg-name="Bein Sports 2" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 2
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049172&extension=ts&play_token=8bzBXG34rW
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Bein Sports 3
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049168&extension=ts&play_token=E9FpTOfUPB
+#EXTINF:-1 tvg-name="CCTV5 (Chinese)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",CCTV5 (Chinese)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16 (Chinese)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",CCTV16 (Chinese)
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 tvg-name="Alkass Sports Channels" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Alkass Sports Channels
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
+#EXTINF:-1 tvg-name="TRTSPOR" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",TRTSPOR
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
+
+#EXTINF:-1 tvg-name="Offline" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Offline
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 tvg-name="Offline" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Offline
+http://60.10.167.88:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="Offline" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Offline
+http://60.10.167.88:808/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="Offline" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Offline
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 tvg-name="Offline" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Offline
+http://92.46.127.146:8080/qazsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Offline" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",Offline
+https://v-px.mybtv.net/live/39.m3u8
 
 #EXTINF:-1 tvg-logo="https://i3.extraimage.xyz/pix/2022/11/24/RBKb6H.jpg" group-title="Contact", t.me/agig0
 https://t.me/abig0 
