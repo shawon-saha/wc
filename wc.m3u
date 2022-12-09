@@ -10,6 +10,8 @@ http://103.143.235.50:8080/101/101.m3u8
 #EXTINF:-1 tvg-name="TSPORTS (BDIX)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="WC22",TSPORTS (BDIX)
 http://103.143.235.50:8080/102/102.m3u8
 
+#EXTINF:-1 tvg-name="Toffee Paid" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",Toffee Paid
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
 https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
 #EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
