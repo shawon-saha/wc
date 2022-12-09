@@ -11,9 +11,9 @@ http://103.143.235.50:8080/101/101.m3u8
 http://103.143.235.50:8080/102/102.m3u8
 
 #EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
-https://main.presenccunderwell.cc/live/vb_fs1us_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
 https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8
+#EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
+https://main.presenccunderwell.cc/live/vb_fs1us_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
 https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
 #EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
@@ -76,14 +76,6 @@ https://playing.presenccunderwell.cc/live/vb_telemundo/chunks.m3u8
 https://main.presenccunderwell.cc/live/vb_beinsportsmax1ar/playlist.m3u8
 #EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
 https://playing.presenccunderwell.cc/live/vb_beinsportsmax1ar/chunks.m3u8
-#EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
-https://main.presenccunderwell.cc/live/vb_beinsportsmax1ar_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
-https://playing.presenccunderwell.cc/live/vb_beinsportsmax1ar_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
-https://main.presenccunderwell.cc/live/vb_beinsport1fr/playlist.m3u8
-#EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
-https://playing.presenccunderwell.cc/live/vb_beinsport1fr/chunks.m3u8
 
 #EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
 https://turnthe.gameon.tel/live/beinsportsmax1ar_720p/index.m3u8
