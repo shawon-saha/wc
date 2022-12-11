@@ -16,6 +16,8 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-name="GTV (FTPBD)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",GTV (FTPBD)
 http://test-otv1.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-1 tvg-name="Sports-18 (FTPBD)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",Sports-18 (FTPBD)
+http://test-otv1.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-name="Dflix" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",Dflix
 http://localtv.dflix.live:8080/dot_en/1/mono.m3u8
 
