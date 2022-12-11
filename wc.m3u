@@ -16,16 +16,8 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-name="GTV (FTPBD)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",GTV (FTPBD)
 http://test-otv1.ftpbd.net/streams/117/index.m3u8
-#EXTINF:-1 tvg-name="Dflix 1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",Dflix 1
+#EXTINF:-1 tvg-name="Dflix" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",Dflix
 http://localtv.dflix.live:8080/dot_en/1/mono.m3u8
-#EXTINF:-1 tvg-name="Dflix 2" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",Dflix 2
-http://localtv.dflix.live:8080/roarzone/37/mono.m3u8
-#EXTINF:-1 tvg-name="T-Sports Dflix 1" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",T-Sports Dflix
-http://localtv.dflix.live:8080/roarzone/102/mono.m3u8
-#EXTINF:-1 tvg-name="GTV Dflix" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",GTV Dflix
-http://localtv.dflix.live:8080/roarzone/1/mono.m3u8
-#EXTINF:-1 tvg-name="BTV Dflix" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",BTV Dflix
-http://localtv.dflix.live:8080/roarzone/53/mono.m3u8
 
 #EXTINF:-1 tvg-name="9GOAL" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="9GOAL",9GOAL
 https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
