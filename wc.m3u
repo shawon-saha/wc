@@ -11,7 +11,7 @@ http://103.143.235.50:8080/101/101.m3u8
 http://103.143.235.50:8080/102/102.m3u8
 
 #EXTINF:-1 tvg-name="Toffee Paid 720p" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="BDIX",Toffee Paid 720p
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/index.m3u8
 #EXTINF:-1 tvg-name="Dflix" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="BDIX",Dflix
 http://localtv.dflix.live:8080/dot_en/1/mono.m3u8
 #EXTINF:-1 tvg-name="Sports-18 (FTPBD)" tvg-logo="https://magneticmediatv.com/wp-content/uploads/2022/11/Fifa-World-Cup.png" group-title="BDIX",Sports-18 (FTPBD)
